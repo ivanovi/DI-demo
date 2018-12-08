@@ -1,4 +1,4 @@
-# DI-demo
+# Dependcy injection Playground
 
 This is just a playground containing a mental exercise on dependency injection. 
 
